@@ -1,0 +1,20 @@
+function c = populationCount(vidName)
+%function runs the population counter
+%input argument is a video compatible with the MATLAB videoReader
+
+%prompt users for values
+accuracy = 0.1;
+
+%run vid to frames method
+%[startFrame, numFrames] = vidToFrames(vidName);
+startFrame = 'frames\001.jpg';
+
+%find the RGB in question using the startFrame
+RGB = findRGB(startFrame);
+
+%count pixels in images
+for x = 1:numFrames
+       filename = [sprintf('%03d',k) '.jpg'];
+   fullname = fullfile('frames', filename);
+    count = countPixels2(imgName, RGB, accuracy);
+end

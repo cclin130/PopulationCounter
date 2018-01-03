@@ -1,5 +1,6 @@
 # PopulationCounter
 MATLAB Script which accepts a video of a bacteria culture and determines its population growth.
+Simply run getPopulation function with four inputs.
 
 User inputs video file name, name of culture, desired accuracy, and frame rate.
 
