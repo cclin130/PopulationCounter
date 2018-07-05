@@ -4,8 +4,6 @@ Simply run getPopulation function with four inputs.
 
 User inputs video file name, name of culture, desired accuracy, and frame rate.
 
-<img str="https://github.com/cclin130/PopulationCounter/blob/master/demo.png" width="500">
-
 ## Sample Output
 <img src="https://github.com/cclin130/PopulationCounter/blob/master/Trials/2.Lactobacillus/03-Jan-2018-Lactobacillus-graph.jpg" width="500" height="500">
 
