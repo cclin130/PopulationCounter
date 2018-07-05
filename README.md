@@ -4,14 +4,14 @@ Simply run getPopulation function with four inputs.
 
 User inputs video file name, name of culture, desired accuracy, and frame rate.
 
-
+<img str="https://github.com/cclin130/PopulationCounter/blob/master/demo.png" width="500" height="250">
 
 ## Sample Output
 <img src="https://github.com/cclin130/PopulationCounter/blob/master/Trials/2.Lactobacillus/03-Jan-2018-Lactobacillus-graph.jpg" width="500" height="500">
 
 ## Further improvements:
--Introduce GUI for user's ease 
--Increase versatility 
--video analysis is not entirely accurate if low contrast between cell and rest of culture 
--Further data analytics, regressions 
--Display frames and plot graph simultaneously 
+-Introduce GUI for user's ease <br />
+-Increase versatility <br />
+-video analysis is not entirely accurate if low contrast between cell and rest of culture <br />
+-Further data analytics, regressions <br />
+-Display frames and plot graph simultaneously <br />
