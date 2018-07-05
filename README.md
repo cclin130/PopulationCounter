@@ -10,3 +10,6 @@ Further improvements:
 	-video analysis is not entirely accurate if low contrast between cell and rest of culture
 -Further data analytics, regressions
 -Display frames and plot graph simultaneously
+
+## Sample Output
+![alt text](https://raw.githubusercontent.com/cclin130/PopulationCounter/blob/master/Trials/2.Lactobacillus/03-Jan-2018-Lactobacillus-graph.jpg)
